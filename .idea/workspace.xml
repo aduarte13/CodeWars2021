@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="finish prob01">
+    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="finish prob02">
+      <change afterPath="$PROJECT_DIR$/prob03/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prob03/prob03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2a3KVS2m6ISJqkkvFwXRJGQAAlr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,6 +37,7 @@
   "keyToString": {
     "Python.prob01.executor": "Run",
     "Python.prob02.executor": "Run",
+    "Python.prob03.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -42,6 +45,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kidto\PycharmProjects\CodeWars2021\prob03" />
+      <recent name="C:\Users\kidto\PycharmProjects\CodeWars2021\prob01" />
       <recent name="C:\Users\kidto\PycharmProjects\CodeWars2021" />
     </key>
   </component>
@@ -69,11 +74,20 @@
       <option name="project" value="LOCAL" />
       <updated>1703542812347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish prob02">
+      <option name="closed" value="true" />
+      <created>1703547193880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703547193880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish prob01" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish prob01" />
+    <MESSAGE value="finish prob02" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish prob02" />
   </component>
 </project>
