@@ -34,8 +34,6 @@ lines = file.readlines()
 
 for line in lines:
     for char in line:
-        print(char)
+        print(char, end="")
 
 file.close()
-
-

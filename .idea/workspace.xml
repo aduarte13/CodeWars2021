@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="finish prob02">
-      <change afterPath="$PROJECT_DIR$/prob03/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob03/prob03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="prob03: setup basic file reading and console output" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +36,8 @@
     "Python.prob03.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -82,12 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703547193880</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="prob03: setup basic file reading and console output">
+      <option name="closed" value="true" />
+      <created>1703656319489</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703656319489</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish prob01" />
     <MESSAGE value="finish prob02" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish prob02" />
+    <MESSAGE value="prob03: setup basic file reading and console output" />
+    <option name="LAST_COMMIT_MESSAGE" value="prob03: setup basic file reading and console output" />
   </component>
 </project>
