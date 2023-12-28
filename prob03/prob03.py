@@ -30,6 +30,7 @@
 # No pigeon, try another map, Ace
 
 # === ATTEMPT 1 === #
+
 file = open("input.txt", 'r')   # open file in read mode
 lines = file.readlines()        # add file lines to str list
 
@@ -47,8 +48,23 @@ for y in range(len(lines)):             # y = index of current line/row
             print("No pigeon, try another map, Ace")
 
 file.close()
-
+"""
 # === ATTEMPT 2 === #
+file = open("input.txt", 'r')   # open file in read mode
+lines = file.readlines()        # add file lines to str list
 
-
-
+for line in lines:
+    for char in line:
+        if char == 'P':
+            print("Ace, move fast, pigeon is at ("
+                  + str(line.index(char)) + ","
+                  + str(lines.index(line)) + ")")
+        # elif y == len(lines) - 1 and x == len(lines[y]) - 1:
+        elif (line.index(char) == len(line) - 1
+              and lines.index(line) == len(lines) - 1):
+            print("No pigeon, try another map, Ace")
+        print("line.index(char)  " + str(line.index(char)) + " | " + str(len(line) - 1))
+        print("lines.index(line) " + str(lines.index(line)) + " | " + str(len(lines) - 1))
+        
+file.close()
+"""
