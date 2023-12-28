@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="prob03: figure out how to print w/o newline">
+    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="finish prob03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prob03/prob03.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob03/prob03.py" afterDir="false" />
     </list>
@@ -98,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703657286056</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finish prob03">
+      <option name="closed" value="true" />
+      <created>1703725711197</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703725711197</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,6 +114,7 @@
     <MESSAGE value="finish prob02" />
     <MESSAGE value="prob03: setup basic file reading and console output" />
     <MESSAGE value="prob03: figure out how to print w/o newline" />
-    <option name="LAST_COMMIT_MESSAGE" value="prob03: figure out how to print w/o newline" />
+    <MESSAGE value="finish prob03" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish prob03" />
   </component>
 </project>
