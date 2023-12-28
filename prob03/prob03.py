@@ -1,3 +1,4 @@
+import numpy as np
 # Ace Ventura, Pet Detective, is on the hunt for a rare albino
 # pigeon. Help Ace find the pigeon with your drone's new
 # mapping app.
@@ -53,6 +54,10 @@ file.close()
 file = open("input.txt", 'r')   # open file in read mode
 lines = file.readlines()        # add file lines to str list
 
+arr = np.array(lines)
+
+print(np.shape(arr))
+
 for line in lines:
     for char in line:
         if char == 'P':
@@ -61,10 +66,8 @@ for line in lines:
                   + str(lines.index(line)) + ")")
         # elif y == len(lines) - 1 and x == len(lines[y]) - 1:
         elif (line.index(char) == len(line) - 1
-              and lines.index(line) == len(lines) - 1):
+              and lines.index(line) == np.shape(lines)[0]):
             print("No pigeon, try another map, Ace")
-        print("line.index(char)  " + str(line.index(char)) + " | " + str(len(line) - 1))
-        print("lines.index(line) " + str(lines.index(line)) + " | " + str(len(lines) - 1))
         
 file.close()
 """

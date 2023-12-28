@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="prob03: add comments">
+    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/prob04/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prob04/prob04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CodeWars2021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodeWars2021.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prob03/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prob03/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prob03/prob03.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob03/prob03.py" afterDir="false" />
@@ -38,11 +42,13 @@
     "Python.prob01.executor": "Run",
     "Python.prob02.executor": "Run",
     "Python.prob03.executor": "Run",
+    "Python.prob04.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "PyConsoleConfigurable.Python Console"
+    "last_opened_file_path": "C:/Users/kidto/PycharmProjects/venv",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="PyConsoleOptionsProvider">
@@ -148,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703746863799</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="prob03: attempt nicer solution; emphasis on &quot;attempt&quot;">
+      <option name="closed" value="true" />
+      <created>1703750087245</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703750087245</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +172,7 @@
     <MESSAGE value="prob03: figure out how to print w/o newline" />
     <MESSAGE value="finish prob03" />
     <MESSAGE value="prob03: add comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="prob03: add comments" />
+    <MESSAGE value="prob03: attempt nicer solution; emphasis on &quot;attempt&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="prob03: attempt nicer solution; emphasis on &quot;attempt&quot;" />
   </component>
 </project>
