@@ -32,8 +32,15 @@
 file = open("input.txt", 'r')
 lines = file.readlines()
 
-for line in lines:
-    for char in line:
-        print(char, end="")
+x = 0
+y = 0
+
+for y in range(len(lines)):
+    for x in range(len(lines[y])):
+        # print(lines[x][y], end="")
+        if lines[y][x] == 'P':
+            print("Ace, move fast, pigeon is at (" + str(x) + "," + str(y) + ")")
+        elif y == len(lines)-1 and x == len(lines[y])-1:
+            print("No pigeon, try another map, Ace")
 
 file.close()
