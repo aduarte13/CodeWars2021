@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="">
+    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="prob03: work on second attempt">
       <change afterPath="$PROJECT_DIR$/prob04/input.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/prob04/prob04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CodeWars2021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodeWars2021.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob03/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prob03/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob03/prob03.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob03/prob03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703750087245</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="prob03: work on second attempt">
+      <option name="closed" value="true" />
+      <created>1703756207957</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703756207957</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +177,7 @@
     <MESSAGE value="finish prob03" />
     <MESSAGE value="prob03: add comments" />
     <MESSAGE value="prob03: attempt nicer solution; emphasis on &quot;attempt&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="prob03: attempt nicer solution; emphasis on &quot;attempt&quot;" />
+    <MESSAGE value="prob03: work on second attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="prob03: work on second attempt" />
   </component>
 </project>
