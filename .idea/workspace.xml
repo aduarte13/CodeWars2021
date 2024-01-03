@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="prob03: work on second attempt">
-      <change afterPath="$PROJECT_DIR$/prob04/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob04/prob04.py" afterDir="false" />
+    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="prob04: done">
+      <change afterPath="$PROJECT_DIR$/ScoreCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prob05/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prob05/prob05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +41,12 @@
     "Python.prob02.executor": "Run",
     "Python.prob03.executor": "Run",
     "Python.prob04.executor": "Run",
+    "Python.prob05.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/kidto/PycharmProjects/venv",
+    "last_opened_file_path": "C:/Users/kidto/PycharmProjects/CodeWars2021/prob05",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -56,6 +59,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kidto\PycharmProjects\CodeWars2021\prob05" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kidto\PycharmProjects\CodeWars2021\prob03" />
       <recent name="C:\Users\kidto\PycharmProjects\CodeWars2021\prob01" />
@@ -166,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703756207957</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="prob04: done">
+      <option name="closed" value="true" />
+      <created>1703999589166</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703999589166</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +192,7 @@
     <MESSAGE value="prob03: add comments" />
     <MESSAGE value="prob03: attempt nicer solution; emphasis on &quot;attempt&quot;" />
     <MESSAGE value="prob03: work on second attempt" />
-    <option name="LAST_COMMIT_MESSAGE" value="prob03: work on second attempt" />
+    <MESSAGE value="prob04: done" />
+    <option name="LAST_COMMIT_MESSAGE" value="prob04: done" />
   </component>
 </project>
