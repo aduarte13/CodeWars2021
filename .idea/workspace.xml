@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="prob04: done">
+    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="prob05: done">
       <change afterPath="$PROJECT_DIR$/ScoreCalculator.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob05/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob05/prob05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ScoreCalculator.executor": "Run",
     "Python.prob01.executor": "Run",
     "Python.prob02.executor": "Run",
     "Python.prob03.executor": "Run",
@@ -180,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703999589166</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="prob05: done">
+      <option name="closed" value="true" />
+      <created>1704248417228</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704248417229</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,6 +200,7 @@
     <MESSAGE value="prob03: attempt nicer solution; emphasis on &quot;attempt&quot;" />
     <MESSAGE value="prob03: work on second attempt" />
     <MESSAGE value="prob04: done" />
-    <option name="LAST_COMMIT_MESSAGE" value="prob04: done" />
+    <MESSAGE value="prob05: done" />
+    <option name="LAST_COMMIT_MESSAGE" value="prob05: done" />
   </component>
 </project>
