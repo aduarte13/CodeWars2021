@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="prob05: done">
-      <change afterPath="$PROJECT_DIR$/ScoreCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/points.txt" afterDir="false" />
+    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="fix how carriage returns are handled">
+      <change afterPath="$PROJECT_DIR$/prob06/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prob06/prob06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +41,12 @@
     "Python.prob03.executor": "Run",
     "Python.prob04.executor": "Run",
     "Python.prob05.executor": "Run",
+    "Python.prob06.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/kidto/PycharmProjects/CodeWars2021/prob05",
+    "last_opened_file_path": "C:/Users/kidto/PycharmProjects/CodeWars2021/prob06",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -59,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kidto\PycharmProjects\CodeWars2021\prob06" />
       <recent name="C:\Users\kidto\PycharmProjects\CodeWars2021\prob05" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -187,7 +189,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704248417229</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="points calculator for later convenience">
+      <option name="closed" value="true" />
+      <created>1704250996999</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704250996999</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix how carriage returns are handled">
+      <option name="closed" value="true" />
+      <created>1704251563390</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704251563390</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,6 +219,8 @@
     <MESSAGE value="prob03: work on second attempt" />
     <MESSAGE value="prob04: done" />
     <MESSAGE value="prob05: done" />
-    <option name="LAST_COMMIT_MESSAGE" value="prob05: done" />
+    <MESSAGE value="points calculator for later convenience" />
+    <MESSAGE value="fix how carriage returns are handled" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix how carriage returns are handled" />
   </component>
 </project>
