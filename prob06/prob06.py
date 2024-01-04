@@ -17,18 +17,19 @@ EXAMPLES:
     CIPHERTEXT XZUJWHFQNKWFLNQNXYNHJCUNFQNITHNTZX
 """
 
-file = open("input.txt", 'r')  # open file in read mode
-cipertext = file.readlines()[1]  # get the ciphertext
+file = open("input.txt", 'r')       # open file in read mode
+cipertext = file.readlines()[1]     # get the ciphertext
 plaintext = ""
+cipher_shift = -5
 
-for char in cipertext:
-    if char == ' ':
+for char in cipertext:                  # for every character
+    if char == ' ':                         # keep whitespace the same
         plaintext += char
         continue
-    ascii_val = ord(char)
-    if ascii_val - 5 < 65:
+    ascii_val = ord(char) + cipher_shift    # get ascii code of the deciphered char
+    if ascii_val < 65:                          # account for the loop around
         ascii_val = ascii_val + 26
-    plaintext += chr(ascii_val - 5)
+    plaintext += chr(ascii_val)             # add deciphered char to plaintext
 
 print(plaintext)
 

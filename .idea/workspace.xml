@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="fix how carriage returns are handled">
-      <change afterPath="$PROJECT_DIR$/prob06/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob06/prob06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="prob06: done; caesar cipher exercise">
+      <change beforePath="$PROJECT_DIR$/prob06/prob06.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob06/prob06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704251563390</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="prob06: done; caesar cipher exercise">
+      <option name="closed" value="true" />
+      <created>1704331277844</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704331277844</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -221,6 +227,7 @@
     <MESSAGE value="prob05: done" />
     <MESSAGE value="points calculator for later convenience" />
     <MESSAGE value="fix how carriage returns are handled" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix how carriage returns are handled" />
+    <MESSAGE value="prob06: done; caesar cipher exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="prob06: done; caesar cipher exercise" />
   </component>
 </project>
