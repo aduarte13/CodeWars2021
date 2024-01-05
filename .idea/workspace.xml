@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="prob06: done; caesar cipher exercise">
-      <change beforePath="$PROJECT_DIR$/prob06/prob06.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob06/prob06.py" afterDir="false" />
+    <list default="true" id="5c20ed13-9313-49b7-bc82-4235305cf8dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/prob07/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prob07/prob07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +42,12 @@
     "Python.prob04.executor": "Run",
     "Python.prob05.executor": "Run",
     "Python.prob06.executor": "Run",
+    "Python.prob07.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/kidto/PycharmProjects/CodeWars2021/prob06",
+    "last_opened_file_path": "C:/Users/kidto/PycharmProjects/CodeWars2021/prob07",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -58,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kidto\PycharmProjects\CodeWars2021\prob07" />
       <recent name="C:\Users\kidto\PycharmProjects\CodeWars2021\prob06" />
       <recent name="C:\Users\kidto\PycharmProjects\CodeWars2021\prob05" />
     </key>
@@ -211,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704331277844</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="prob06: get rid of magic number for the shift and add comments">
+      <option name="closed" value="true" />
+      <created>1704331579187</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704331579187</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,6 +240,7 @@
     <MESSAGE value="points calculator for later convenience" />
     <MESSAGE value="fix how carriage returns are handled" />
     <MESSAGE value="prob06: done; caesar cipher exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="prob06: done; caesar cipher exercise" />
+    <MESSAGE value="prob06: get rid of magic number for the shift and add comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="prob06: get rid of magic number for the shift and add comments" />
   </component>
 </project>
